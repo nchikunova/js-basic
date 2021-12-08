@@ -1,0 +1,14 @@
+{
+  "name": "topgun-nodejs",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Oleksandr Melnyk",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.0"
+  }
+}
